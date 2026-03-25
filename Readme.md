@@ -1,7 +1,44 @@
-# 💫 About Me:
-🔭 I’m currently working on a social media app that helps people discover lesser-known spots and hidden gems in their city.  <br>👯 I’m open to collaborating on frontend, backend, or UI design projects.  <br>🌱 Currently learning PostgreSQL with Prisma to enhance my backend skillset.  <br>🤝 Always looking to grow as a full-stack developer through hands-on collaboration.  <br>💬 Ask me about UI/UX design, efficient API development, or tricky JavaScript problems.  <br>🧘‍♂️ In my free time, I’m a dancer, a meditator, and always chasing creative inspiration.  <br>⚡ Fun fact: I’m a proud Harry Potter fanatic who codes better with chai and chill beats.<br>
+# Hi, I'm Ekam Singh Bhatia 👋
+### Full-Stack Developer | Cloud & DevOps Enthusiast | Automation Specialist
 
+I build scalable web applications with a focus on performance, security, and automated infrastructure. Based in Ottawa, I specialize in bridging the gap between high-quality code and robust cloud deployment.
 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🚀 Key Projects
+
+* **Bhangrascape.ca** | *Lead Developer*
+    * Architected a full-stack platform for one of Ottawa’s premier performance teams.
+    * Implemented AWS S3 media workflows, JWT authentication, and role-based access control.
+
+* **XEffect** | *GitOps & Cloud Infrastructure*
+    * Built a 21-day habit consistency tracker deployed on Azure Kubernetes Service (AKS).
+    * Engineered a full CI/CD pipeline using Azure Pipelines and Argo CD for self-healing deployments.
+
+* **Receipt-Checker** | *OCR & LLM Data Processing*
+    * Developed a tool that processes grocery receipts via OCR and matches items against Canadian food recall data using LLM-driven logic.
+    * Deployed on AWS to handle high-performance data verification.
+
+* **Automated Resume Tailor** | *Workflow Automation*
+    * Designed an n8n-based system that uses Claude Sonnet to surgically optimize resumes for specific job descriptions in under 2 minutes.
+
+---
+
+### 🛠 Technical Ecosystem
+
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+**Cloud, DevOps & Automation**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+### 🧠 Interests & Inspiration
+🧘‍♂️ Meditator & Dancer | ⚡ Chasing creative inspiration and efficient solutions | ☕ Powered by Chai & Chill Beats
+
+### 📫 Connect with me:
+[Portfolio](https://ekamsingh.ca) | [LinkedIn](https://www.linkedin.com/in/ekam-singh-335840168)
